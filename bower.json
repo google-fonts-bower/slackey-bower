@@ -1,0 +1,17 @@
+{
+    "name": "slackey-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/slackey-bower.git"
+    },
+    "description": "Slackey font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
